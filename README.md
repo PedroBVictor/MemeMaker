@@ -1,7 +1,14 @@
 # MemeMaker
 
-+Modo de uso:
-   - Primeiro voce seleciona o card de um meme.
-   - Apos escolher uma imagem, campos para preencher o meme serao renderizados.
-   - Preenchendo os campos, voce pode clicar em no Botao em destaque na parte inferior do card e o seu meme vai ser gerado.
-   - Se caso quiser criar outro meme, basta clicar no botao "Criar outro meme"
+## Modo de uso
+- Depois de baixar e rodar o app.
+- Uma tela com diversas imagens serao exibidas, basta clicar em uma das imagens que campos de texto serao renderizados.
+- Preencha os campos de texto e clique para gerar o meme.
+- Uma imagem em resolucao maior sera carregada e seu meme estara pronto.
+
+## Baixe o projeto 
+```
+git clone https://github.com/PedroBVictor/MemeMaker
+npm i
+npm start
+```
